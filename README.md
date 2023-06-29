@@ -4,9 +4,6 @@
 - ⚡ ⚡ Bunun için şu an HTML,CSS,Boostrap,React ve JS öğreniyorum ⚡ ⚡
 - 💪 👮🏻 Ekip çalışmasına uyumlu kişilerle, yeni projelerde birlikte yer almak istiyorum 👮🏻 💪
 - Bana ulaşabileceğiniz e-posta ve ve sosyal medya adreslerim aşağıdadır 👇👇👇
-      E-POSTA: anurikaynar70@gmail.com
-      INSTAGRAM: https://instagram.com/anurikaynar70?igshid=ZDc4ODBmNjlmNQ==
-      
 
-
-**ahmetnurikaynar70/ahmetnurikaynar70** is a **ahmetnurikaynar70/ahmetnurikaynar70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  *E-POSTA: anurikaynar70@gmail.com
+  *INSTAGRAM: https://instagram.com/anurikaynar70?igshid=ZDc4ODBmNjlmNQ==
