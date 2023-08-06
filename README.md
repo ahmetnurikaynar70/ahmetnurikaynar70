@@ -1,6 +1,5 @@
-🌍 🌍 🌍 Merhaba, ben Ahmet Nuri KAYNAR. 1984 doğumluyum. Fen Bilgisi Öğretmeniyim. Bir devlet kurumunda memur olarak görev yapıyorum 🌍 🌍 🌍
-
-🌍 🌍 🌍 Hello, I am Ahmet Nuri KAYNAR. I was born in 1984. I am a science teacher. I work as a civil servant in a state institution 🌍 🌍 🌍
+🌍 🌍 🌍 Merhaba, ben Ahmet Nuri KAYNAR. 1984 doğumluyum. Fen Bilgisi Öğretmeniyim 🌍 🌍 🌍
+🌍 🌍 🌍 Hello, I am Ahmet Nuri KAYNAR. I was born in 1984. I am a science teacher 🌍 🌍 🌍
 
 - 😄 Gelecekteki kariyer planlarım arasında yazılımcı olmak var 😄
 - 😄 My future career plans include becoming a software developer 😄
@@ -14,3 +13,4 @@
   🎯 INSTAGRAM: https://instagram.com/anurikaynar70?igshid=ZDc4ODBmNjlmNQ==
   🎯 TWITTER: https://twitter.com/AhmetNuriKaynar/status/1668145726767898624?t=jl-Tf7I_n_Wf1wEViZGAyg&s=19
   🎯 FACEBOOK: https://www.facebook.com/ahmet.nuri.kaynar?mibextid=ZbWKwL
+  🎯 LİNKEDİN: https://www.linkedin.com/in/ahmet-nuri-kaynar
