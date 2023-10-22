@@ -6,7 +6,7 @@
 
 ⚙️⚙️⚙️ I think the front-end development process can be moved further with synergy and innovation. ⚙️⚙️⚙️
 
-MY SOFTWARE LANGUAGES
+My programming languages ​​and technologies
 ![image](https://github.com/ahmetnurikaynar70/ahmetnurikaynar70/assets/137056289/bed1a457-8b7f-421d-b1d9-3334bf0fc35f)
 ![image](https://github.com/ahmetnurikaynar70/ahmetnurikaynar70/assets/137056289/72866e37-0086-44de-8c93-98848865361b)
 ![image](https://github.com/ahmetnurikaynar70/ahmetnurikaynar70/assets/137056289/99c5f535-c6b1-4900-a682-438d9a7f4cc0)
